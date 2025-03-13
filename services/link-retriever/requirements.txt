@@ -1,0 +1,2 @@
+pip install fastapi uvicorn pydantic
+pip install pymongo psycopg2-binary sqlalchemy
